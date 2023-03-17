@@ -1,0 +1,2 @@
+# myGolang
+tutorial for golang
