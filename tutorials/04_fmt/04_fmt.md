@@ -1,0 +1,39 @@
+# tutorial 3 (variable)
+
+- 경로: TUTORIALS/04_variable
+- module: fmt
+- out
+  - functions
+    - fmt.Print()
+      - no space & no new line
+    - fmt.Println()
+      - add new line character at last
+    - fmt.Printf()
+      - Formatted text
+  - 서식지정자
+    - %v: 데이터 타입에 맞춰서 기본 형태로 출력
+    - %T: 데이터 타입 출력
+    - %t: 불리언 출력 (true/ false)
+    - %d: 10진수 정수 출력
+    - %b: 2진수 출력
+    - %c: 유니코드 문자 출력
+    - %o: 8진수 출력
+    - %O: 앞에 8진수임을 표시하는 Oo를 붙여서 8진수로 출력
+    - %x: 16진수로 출력 with a~f
+    - %X: 16진수로 출력 with A~F
+    - %e 혹은 %E: 지수형태 출력 ex. -1.23456e+78
+    - %f 혹은 %F: 실수형태로 출력
+    - %g 혹은 %G: 값이 큰 실수값은 지수 형태로 출력, 작은 값은 실수 그대로
+    - %s: 문자열
+    - %q: 특수문자 기능을 동작하지 않고 그대로 출력
+  - Special character
+    - \n: new line
+    - \t: tab
+- in
+  - functions
+    - fmt.Scan()
+      - input values
+    - fmt.Scanf()
+      - input as format
+    - fmt.Scanln()
+      - input a line

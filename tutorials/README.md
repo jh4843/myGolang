@@ -1,4 +1,4 @@
-# myGolang
+# TUTORIALS
 
 tutorial for golang
 
@@ -24,3 +24,7 @@ tutorial for golang
 ## tutorial 3 (variable)
 
 - variable: [03_variable](/03_variable/03_variable.md)
+
+## tutorial 4 (fmt)
+
+- variable: [04_fmt](/04_fmt/04_fmt.md)

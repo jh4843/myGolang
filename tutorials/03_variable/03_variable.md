@@ -1,0 +1,40 @@
+# tutorial 3 (variable)
+
+- 경로: TUTORIALS/03_variable
+- Data types
+  - Boolean : true / false
+  - Numeric
+    - integer
+      - uint8, uint16, uint32, uint64, int8, int16, int32, int64
+    - floating
+      - float32, float64, complex64, complex128
+    - Others
+      - byte(=uint8), rune(=int32), uint(32 or 64bits int), uintptr(unsigned integer to stroe pointer value)
+  - String : a sequence of bytes
+  - Derived: Pointer, Array, Structure, Union, Function, Slice, Interface, Map, Channel
+- Reserved Keywords
+  - break
+  - default
+  - func
+  - interface
+  - select
+  - case
+  - defer
+  - Go
+  - map
+  - Struct
+  - chan
+  - else
+  - Goto
+  - package
+  - Switch
+  - const
+  - fallthrough
+  - if
+  - range
+  - Type
+  - continue
+  - for
+  - import
+  - return
+  - Var
