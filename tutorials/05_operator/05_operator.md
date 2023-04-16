@@ -1,4 +1,4 @@
-# tutorial 3 (variable)
+# tutorial 5 (operator)
 
 - 경로: TUTORIALS/05_operator
 
@@ -54,3 +54,13 @@
     - 작거나 같다
   - \>=
     - 크거나 같다.
+
+---
+
+- 논리 연산자
+  - &&
+    - 양쪽 모두 true
+  - ||
+    - 둘중 하나라도 true 면 true
+  - !
+    - NOT

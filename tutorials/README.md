@@ -7,6 +7,12 @@ tutorial for golang
 - Opensource programming language that is developed by google.
 - developer: 로버트 그리즈머, 롭파이크(Robert Pike), 켐 톰프슨(Kenneth Lane Thompson)
 
+## go Commnads
+- go mod init {{path}}
+- go tidy
+- go build
+- go env
+
 ## Install
 
 - GO: [Go download](https://go.dev/dl/) - cur version: 1.20.2
@@ -27,4 +33,18 @@ tutorial for golang
 
 ## tutorial 4 (fmt)
 
-- variable: [04_fmt](/04_fmt/04_fmt.md)
+- fmt: [04_fmt](/04_fmt/04_fmt.md)
+
+## tutorial 5 (operator)
+
+- operator: [05_operator](/05_operator/05_operator.md)
+
+## tutorial 6 (function)
+
+- function: [06_function](/06_function/06_function.md)
+
+## tutorial 9 (module)
+
+- module: [09_module](/09_module/09_module.md)
+
+
